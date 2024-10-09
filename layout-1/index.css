@@ -8,6 +8,7 @@ html {
   display: grid;
   grid-template-columns: 290px 870px; 
   grid-template-rows: 100px 100px 500px 100px;
+  gap: 15px;
   text-align: center;
   height: 100%;
   padding: 16px;
