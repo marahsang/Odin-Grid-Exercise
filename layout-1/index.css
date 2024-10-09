@@ -64,3 +64,8 @@ html {
   color: white;
   text-align: left;
 }
+
+.header, .nav, .footer {
+  display: grid;
+  align-items: center;
+}
