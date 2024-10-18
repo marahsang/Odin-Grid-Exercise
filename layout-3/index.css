@@ -19,6 +19,12 @@
   }
   
   .header {
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: -1;
+    grid-row-start: 1;
+    grid-template-columns: auto 1fr;
+    align-items: center;
     background-color: #393f4d;
   }
   
